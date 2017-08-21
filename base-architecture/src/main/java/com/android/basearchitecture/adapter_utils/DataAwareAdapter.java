@@ -2,9 +2,6 @@ package com.android.basearchitecture.adapter_utils;
 
 import android.support.v7.widget.RecyclerView;
 
-import com.drbridge.doctorsapp.ui.adapter.helpers.AdapterDataManager;
-import com.drbridge.doctorsapp.ui.adapter.helpers.AdapterDataManagerListImpl;
-
 import java.util.List;
 
 /**
